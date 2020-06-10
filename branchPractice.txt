@@ -1,2 +1,3 @@
 This is a text file to practice with branches. 
 This is the second line and will start a branch to add a third line. 
+Line 3 is being edited on gitHub as a branch with a branch name of addText
