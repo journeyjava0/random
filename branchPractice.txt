@@ -1,0 +1,2 @@
+This is a text file to practice with branches. 
+This is the second line and will start a branch to add a third line. 
