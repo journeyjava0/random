@@ -4,4 +4,5 @@ Line 3 is being edited on gitHub as a branch with a branch name of addText
 Line 4 was added from CLI via VIM and resubmitted to the master branch.
 Next time, it will be interesting to learn how to push to a branch other than master.
 Line 6 was updated on a gitHub and started a branch called version2.
-Line 7 was updated on CLI and then pushed to version2 branch.
+Line 7 updated on CLI and pushed to version2 branch.
+
