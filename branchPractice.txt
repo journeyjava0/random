@@ -5,4 +5,4 @@ Line 4 was added from CLI via VIM and resubmitted to the master branch.
 Next time, it will be interesting to learn how to push to a branch other than master.
 Line 6 was updated on a gitHub and started a branch called version2.
 Line 7 updated on CLI and pushed to version2 branch.
-Line 8 change.
+Line 8 
