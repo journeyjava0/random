@@ -9,4 +9,4 @@ Line 8 this change is made in branch v2
 Line 9 made this change on CLI and pushed to v2 branch.
 Line 10 added this line on gitHub, but want to open comments. Z. (this is what was changed).
 Line 11 text updated. Additional text.  
-Added this line. 
+Added this. 
